@@ -1,7 +1,5 @@
 # Diabetic-Retinopathy-Analysis
 
-This is a team project made under the course IC-272 in IIT Mandi  
-
 This project aims at:  
 - Building a model with clinical potential using image classification, pattern recognition and deep learning  
 - Working on simplifying the labor-intensive task of detecting diabetic retinopathy
